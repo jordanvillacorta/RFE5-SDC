@@ -5,3 +5,6 @@ Great resource shared by Eric on connecting your Express with PostgreSQL:
 
 Official PostgreSQL Documentation for describing tables:
 -- https://www.postgresqltutorial.com/postgresql-describe-table/
+
+Great resource that helped me with PostgreSQL syntax and renaming columns in a table:
+-- https://www.javatpoint.com/postgresql-rename-column
