@@ -1,5 +1,8 @@
 # System Design Capstone Documentation / Resources
 
+Video on how to Build a RESTful API with PostgreSQL and Express from Jian:
+-- https://www.youtube.com/watch?v=_Mun4eOOf2Q
+
 Great resource shared by Eric on connecting your Express with PostgreSQL:
 -- https://dev.to/richienabuk/setting-up-express-js-rest-api-postgres-and-sequelize-orm-with-es6-4m08
 
