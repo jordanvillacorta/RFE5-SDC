@@ -17,3 +17,6 @@ Great resource that helped me with PostgreSQL syntax and renaming columns in a t
 
 How to parse data from rows in PostgreSQL, from Stack Overflow:
 -- https://stackoverflow.com/questions/22381998/how-to-parse-the-data-from-rows-object-in-node-js-express-js-mysql2/22382596
+
+How to return data as an array of objects with json agg, from Stack Overflow:
+-- https://stackoverflow.com/questions/26486784/return-as-array-of-json-objects-in-sql-postgres?fbclid=IwAR2mW9bYHmllEdlmxVX60nTLa9BuTPnaX9369nvY1yGNdqigp8DBTJ8AmXI
