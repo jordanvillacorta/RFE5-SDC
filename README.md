@@ -14,3 +14,6 @@ Official PostgreSQL Documentation for describing tables:
 
 Great resource that helped me with PostgreSQL syntax and renaming columns in a table:
 -- https://www.javatpoint.com/postgresql-rename-column
+
+How to parse data from rows in PostgreSQL, from Stack Overflow:
+-- https://stackoverflow.com/questions/22381998/how-to-parse-the-data-from-rows-object-in-node-js-express-js-mysql2/22382596
