@@ -24,3 +24,6 @@ How to return data as an array of objects with json agg, from Stack Overflow:
 *** INDEXING ***
 Official PostGreSQL Documentation on Indexing, types of Indexing, etc:
 -- https://www.tutorialspoint.com/postgresql/postgresql_indexes.htm 
+
+EDB Article on all the different types of Indexing, another great resource:
+-- https://www.enterprisedb.com/postgres-tutorials/overview-postgresql-indexes
