@@ -21,6 +21,8 @@ How to parse data from rows in PostgreSQL, from Stack Overflow:
 How to return data as an array of objects with json agg, from Stack Overflow:
 -- https://stackoverflow.com/questions/26486784/return-as-array-of-json-objects-in-sql-postgres?fbclid=IwAR2mW9bYHmllEdlmxVX60nTLa9BuTPnaX9369nvY1yGNdqigp8DBTJ8AmXI
 
+-------------------------------------
+
 *** INDEXING ***
 Official PostgreSQL Documentation on Indexing, types of Indexing, etc:
 -- https://www.tutorialspoint.com/postgresql/postgresql_indexes.htm 
