@@ -27,3 +27,6 @@ Official PostGreSQL Documentation on Indexing, types of Indexing, etc:
 
 EDB Article on all the different types of Indexing, another great resource:
 -- https://www.enterprisedb.com/postgres-tutorials/overview-postgresql-indexes
+
+An easy-to-read explanation of Indexing with PostgreSQL for beginners:
+-- https://www.pgmustard.com/blog/2019/04/02/postgres-indexes-for-absolute-beginners
