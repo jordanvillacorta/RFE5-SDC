@@ -39,3 +39,6 @@ An easy-to-read explanation of Indexing with PostgreSQL for beginners:
 PostgreSQL Documentation on copying a database from one server to another:
 -- https://www.postgresqltutorial.com/postgresql-copy-database/
 
+*** DOCKER ***
+Official Docker Documentation on repositories and pushing/commiting to DockerHub:
+-- https://docs.docker.com/docker-hub/repos/
